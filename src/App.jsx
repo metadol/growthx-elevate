@@ -1,8 +1,10 @@
-import React from 'react'
+import ElevateAnimation from './features/ElevateAnimation'
 
 const App = () => {
   return (
-    <div className='bg-red-500 p-2'>App</div>
+    <>
+      <ElevateAnimation />
+    </>
   )
 }
 
