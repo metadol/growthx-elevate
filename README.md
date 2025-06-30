@@ -10,6 +10,7 @@ A code-based animation built with Vite & React, Tailwind CSS, and Framer Motion,
 
 ## Folder Structure
 
+src/
 ├── assets/
 ├── components/
 ├── hooks/
