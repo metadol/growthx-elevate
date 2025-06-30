@@ -24,8 +24,8 @@ src/
 ## Run the Project
 
 ```bash
-git clone https://github.com/your-username/growthx-animation.git
-cd growthx-animation
+git clone https://github.com/metadol/growthx-elevate.git
+cd growthx-elevate
 npm install
 npm run dev
 
