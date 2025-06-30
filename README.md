@@ -10,12 +10,14 @@ A code-based animation built with Vite & React, Tailwind CSS, and Framer Motion,
 
 ## Folder Structure
 
+```bash
 src/
 ├── assets/
 ├── components/
 ├── hooks/
 ├── App.jsx
 └── main.jsx
+```
 
 
 ## Run the Project
