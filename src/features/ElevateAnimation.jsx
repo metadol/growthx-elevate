@@ -1,6 +1,6 @@
 import { AnimatePresence, motion } from "framer-motion";
 import SparkleImage from "../components/SparkleImage";
-import ElevateText from "../components/elevateText";
+import ElevateText from "../components/ElevateText";
 import ElevateReveal from "../components/ElevateReveal";
 import ReplayButton from "../components/ReplayButton";
 import { useAnimationSequence } from "../hooks/useAnimationSequence";
